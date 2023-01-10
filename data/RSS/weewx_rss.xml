@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>Neuburg, RP, Germany, Weather Conditions</title>
+      <link>http://wetter.cv5.de</link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>Do, 12 Apr 2018 16:00:00 CEST</pubDate>
+
+      <lastBuildDate>Do, 12 Apr 2018 16:00:00 CEST</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 3.7.0</generator>
+      <ttl>5,000000 Minuten</ttl>
+      
+      <item>
+         <title>Weather Conditions at 12.Apr.2018 16:00</title>
+         <link>http://wetter.cv5.de</link>
+         <description>
+           Outside temperature: 18,6°C; 
+           Barometer: 1000,2 hPa; 
+           Wind: 4 km/h from 217°; 
+           Rain rate: 0,0 mm/h; 
+           Inside temperature: 21,3°C
+         </description>
+         <pubDate>Do, 12 Apr 2018 16:00:00 CEST</pubDate>
+	     <geo:lat>48.99</geo:lat>
+    	 <geo:long>8.252</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                12.Apr.2018 16:00<br/>
+             Outside Temperature: 18,6°C<br/>
+             Inside Temperature:  21,3°C<br/>
+             Wind Chill:          18,6°C<br/>
+             Heat Index:             N/A<br/>
+             Dewpoint:               N/A<br/>
+             Humidity:            55%<br/>
+             Barometer:           1000,2 hPa<br/>
+             Wind:                4 km/h from 217°<br/>
+             Rain Rate:           0,0 mm/h<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 12.Apr.2018 16:00</title>
+         <link>http://wetter.cv5.de</link>
+         <description>
+	        Min outside temperature: -18,8°C at 13:15;
+         	Max outside temperature: 31,5°C at 14:30;
+	        Min inside temperature:  21,1°C at 07:40;
+	        Max inside temperature:  21,4°C at 01:45;
+	        Min barometer:           997,1 hPa at 09:17;
+	        Max barometer:           1000,8 hPa at 00:00;
+            Max wind :               27 km/h from 255° at 13:55;
+            Rain today:              0,0 mm
+         </description>
+         <pubDate>Do, 12 Apr 2018 16:00:00 CEST</pubDate>
+	     <geo:lat>48.99</geo:lat>
+    	 <geo:long>8.252</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     12 Apr 2018<br/>
+	         Min Outside Temperature: -18,8°C at 13:15<br/>
+	         Max Outside Temperature: 31,5°C at 14:30<br/>
+	         Min Inside Temperature:  21,1°C at 07:40<br/>
+	         Max Inside Temperature:  21,4°C at 01:45<br/>
+	         Min Barometer:           997,1 hPa at 09:17<br/>
+	         Max Barometer:           1000,8 hPa at 00:00<br/>
+             Max Wind :               27 km/h from 255° at 13:55<br/>
+             Rain today:              0,0 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 12.Apr.2018 16:00</title>
+         <link>http://wetter.cv5.de/month.html</link>
+         <description>
+	        Min outside temperature: -30,1°C at 08.Apr.2018 16:01;
+         	Max outside temperature: 37,5°C at 11.Apr.2018 13:13;
+	        Min inside temperature:  19,7°C at 06.Apr.2018 12:12;
+	        Max inside temperature:  21,8°C at 11.Apr.2018 19:02;
+	        Min barometer:           997,1 hPa at 12.Apr.2018 09:17;
+	        Max barometer:           1023,4 hPa at 06.Apr.2018 01:25;
+            Max wind :               48 km/h from 261° at 04.Apr.2018 14:20;
+            Rain total for month:    12,2 mm
+         </description>
+         <pubDate>Do, 12 Apr 2018 16:00:00 CEST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   April 2018<br/>
+	         Max Outside Temperature: 37,5°C at 11.Apr.2018 13:13<br/>
+	         Min Outside Temperature: -30,1°C at 08.Apr.2018 16:01<br/>
+	         Max Inside Temperature:  21,8°C at 11.Apr.2018 19:02<br/>
+	         Min Inside Temperature:  19,7°C at 06.Apr.2018 12:12<br/>
+	         Min Barometer:           997,1 hPa at 12.Apr.2018 09:17<br/>
+	         Max Barometer:           1023,4 hPa at 06.Apr.2018 01:25<br/>
+             Max Wind :               48 km/h from 261° at 04.Apr.2018 14:20<br/>
+             Rain total for month:    12,2 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 12.Apr.2018 16:00</title>
+         <link>http://wetter.cv5.de/year.html</link>
+         <description>
+	        Min outside temperature: -39,6°C at 28.Feb.2018 15:24;
+         	Max outside temperature: 48,2°C at 24.Feb.2018 14:22;
+	        Min inside temperature:  17,2°C at 03.Mär.2018 09:45;
+	        Max inside temperature:  21,8°C at 11.Apr.2018 19:02;
+	        Min barometer:           991,3 hPa at 06.Mär.2018 16:11;
+	        Max barometer:           1036,9 hPa at 28.Jan.2018 11:17;
+            Max wind :               61 km/h from 238° at 03.Jan.2018 06:45;
+            Rain total for year:     251,6 mm
+         </description>
+         <pubDate>Do, 12 Apr 2018 16:00:00 CEST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2018<br/>
+	         Max Outside Temperature: 48,2°C at 24.Feb.2018 14:22<br/>
+	         Min Outside Temperature: -39,6°C at 28.Feb.2018 15:24<br/>
+	         Max Inside Temperature:  21,8°C at 11.Apr.2018 19:02<br/>
+	         Min Inside Temperature:  17,2°C at 03.Mär.2018 09:45<br/>
+	         Min Barometer:           991,3 hPa at 06.Mär.2018 16:11<br/>
+	         Max Barometer:           1036,9 hPa at 28.Jan.2018 11:17<br/>
+             Max Wind :               61 km/h from 238° at 03.Jan.2018 06:45<br/>
+             Rain total for year:     251,6 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
+
